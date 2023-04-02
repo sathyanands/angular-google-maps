@@ -17,6 +17,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "publishConfig":{"registry" : "https://npm.pkg.github.com"},
   "scripts": {
     "clean": "rimraf dist node_modules/@agm",
     "prebuild": "yarn clean",
