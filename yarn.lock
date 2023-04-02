@@ -7,7 +7,7 @@
   resolved "https://registry.npmjs.org/@aduh95/viz.js/-/viz.js-3.7.0.tgz"
   integrity sha512-20Pk2Z98fbPLkECcrZSJszKos/OgtvJJR3NcbVfgCJ6EQjDNzW2P1BKqImOz3tJ952dvO2DWEhcLhQ1Wz1e9ng==
 
-"@agm/core@3.0.0-beta.1", "@agm/core@file:/workspaces/angular-google-maps/packages/core":
+"@agm/core2@3.0.0-beta.1", "@agm/core2@file:/workspaces/angular-google-maps/packages/core":
   version "3.0.0-beta.1"
   resolved "file:packages/core"
   dependencies:

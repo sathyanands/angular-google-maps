@@ -19,7 +19,7 @@
       "dom"
     ],
     "paths": {
-      "@agm/core": [
+      "@agm/core22": [
         "dist/core/agm-core",
         "dist/core"
       ],

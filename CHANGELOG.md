@@ -238,7 +238,7 @@ ps://github.com/SebastianM/angular-google-maps/issues/740) [#972](https://github
 The project and NPM package name changes:
 
 Old name: angular2-google-maps
-New NPM pkg name: @agm/core
+New NPM pkg name: @agm/core2
 
 To have a consistent naming pattern, we also change the
 component/directive names:
