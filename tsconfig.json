@@ -13,6 +13,7 @@
     "module": "es2020",
     "noUnusedLocals": true,
     "noUnusedParameters": true,
+    "skipLibCheck": true,
     "lib": [
       "es2018",
       "dom"
